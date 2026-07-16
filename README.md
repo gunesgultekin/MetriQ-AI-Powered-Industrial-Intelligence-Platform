@@ -35,7 +35,7 @@ The goal is simple: **not just to watch data, but to understand it.**
 
 <div align="center">
 
-https://github.com/user-attachments/assets/c52ab5d5-dd1b-46aa-832e-78184e828778
+https://github.com/user-attachments/assets/53b83d56-2103-4946-8614-d5423ab45e3f
 
 <br />
 
