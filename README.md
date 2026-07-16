@@ -4,7 +4,7 @@
 
 ### From the field to insight
 
-**An industrial monitoring platform that collects real-time data from Modbus devices, stores it efficiently, and turns it into meaning with AI-assisted smart reports.**
+**AI-Powered Industrial Intelligence & Monitoring Platform that collects real-time data from industrial devices, stores it efficiently, and turns it into meaning with AI-assisted smart reports.**
 
 ![Status](https://img.shields.io/badge/status-in_development-f5a623?style=for-the-badge)
 ![Phase](https://img.shields.io/badge/Phase--1-coming_soon-2f86c9?style=for-the-badge)
